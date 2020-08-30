@@ -19,7 +19,7 @@ The DCGAN is able to more fluidly learn dynamic images compared to a vanilla fee
 
 ![](data/saved_images/epoch_15_checkpoint.jpg)
 
-The DCGAN is non-conditioned meaning you are unable to choose exact qualities desired from the generated output data. For a Conditional-DCGAN please refer my 'Conditional-DCGAN' repository.
+The DCGAN is non-conditioned meaning you are unable to choose exact qualities desired from the generated output data. For a Conditional-DCGAN please refer my 'Conditional-DCGAN' repository: https://github.com/u7javed/Conditional-DCGAN
 
 ## Epoch Progression of DCGAN
 
