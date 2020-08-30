@@ -14,3 +14,7 @@ Here are the architecture diagrams given in the paper:
 ## Discriminator
 
 ![](data/uploads/discriminator.png)
+
+The DCGAN is able to more fluidly learn dynamic images compared to a vanilla feed-forward GAN producing better results. Some examples show quit pleasing going through the batch of generated fake images.
+
+![](data/saved_images/epoch_15_checkpoint.jpg)
