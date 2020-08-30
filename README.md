@@ -21,6 +21,6 @@ The DCGAN is able to more fluidly learn dynamic images compared to a vanilla fee
 
 The DCGAN is non-conditioned meaning you are unable to choose exact qualities desired from the fake photo. For a Conditional-DCGAN please refer my 'Conditional-DCGAN' repository.
 
-## Epoch Progression of DCGAN:
+## Epoch Progression of DCGAN
 
-![](data/saved_images/epoch_progression)
+![](data/saved_images/epoch_progression.gif)
