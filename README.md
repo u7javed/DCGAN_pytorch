@@ -18,3 +18,9 @@ Here are the architecture diagrams given in the paper:
 The DCGAN is able to more fluidly learn dynamic images compared to a vanilla feed-forward GAN producing better results. Some examples show quit pleasing going through the batch of generated fake images.
 
 ![](data/saved_images/epoch_15_checkpoint.jpg)
+
+The DCGAN is non-conditioned meaning you are unable to choose exact qualities desired from the fake photo. For a Conditional-DCGAN please refer my 'Conditional-DCGAN' repository.
+
+## Epoch Progression of DCGAN:
+
+![](data/saved_images/epoch_progression)
